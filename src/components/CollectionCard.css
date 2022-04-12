@@ -1,0 +1,36 @@
+.collectionCard{
+  margin-top: 20px;
+
+}
+
+
+.nft4-img{
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  margin-bottom: 10px;
+  width: 250px;
+  height: 300px;
+  margin: 10px;
+  cursor: pointer;
+}
+.priceContainer {
+  display: flex;
+  align-items: center;
+  
+ 
+}
+span{
+  color: chartreuse;
+}
+.details{
+  color: aliceblue;
+  padding: 10px;
+}
+.eth-img{
+  width: 25px;
+  height: 25px;
+  padding-right: 10px;
+}
+.name{
+  padding-bottom: 10px;
+}
